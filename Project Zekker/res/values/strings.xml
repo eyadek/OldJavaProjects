@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">ذكر</string>
+    <string name="action_settings">Sources</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="framgment1">Fragment 1</string>
+    <string name="framgment2">Fragment 2</string>
+    <string name="framgment3">Fragment 3</string>
+    <string name="framgment4">Fragment 4</string>
+    <string name="framgment5">Fragment 5</string>
+    <string name="drawer_open">Open the Drawer</string>
+    <string name="drawer_close">Close the Drawer</string>
+    
+    <string-array name="fragments">
+        <item>حسابي</item>
+        <item>أذكاري</item>
+        <item>ذكر</item>
+        <item>بحث</item>
+        <item>إنشاء ذكر</item>
+        <item>إعدادات</item>
+    </string-array>
+</resources>
